@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Giancarlo</h1>
 <h3 align="center">A mechanical engineer from Georgia Tech and aspiring data scientist from Le Wagon</h3>
 
-- 💬 I would love to talk about **Robotics and computer vision!**
+- 💬  I would love to talk about **Robotics and computer vision!**
 
-- 📫 How to reach me **giancarlo.tissot@gmail.com**
+- 📫  How to reach me **giancarlo.tissot@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/giancarlo-tissot/](https://www.linkedin.com/in/giancarlo-tissot/)
+- 📄  Know about my experiences [https://www.linkedin.com/in/giancarlo-tissot/](https://www.linkedin.com/in/giancarlo-tissot/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
