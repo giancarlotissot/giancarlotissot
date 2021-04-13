@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giancarlo</h1>
-<h3 align="center">A mechanical engineer and aspiring data scientist</h3>
+<h3 align="center">A Georgia Tech mechanical engineer and aspiring data scientist from Le Wagon</h3>
 
 - 💬 I would love to talk about **Robotics and computer vision!**
 
