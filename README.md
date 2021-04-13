@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Giancarlo</h1>
 <h3 align="center">A mechanical engineer and aspiring data scientist</h3>
 
-- 🔭 Check out this presentation of my latest project [Food Playground](https://youtu.be/bbIg6bBUkaE?t=290)
-
 - 💬 I would love to talk about **Robotics and computer vision!**
 
 - 📫 How to reach me **giancarlo.tissot@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/giancarlo-tissot/](https://www.linkedin.com/in/giancarlo-tissot/)
+
+- 🔭 Check out this presentation of my latest project [Food Playground](https://youtu.be/bbIg6bBUkaE?t=290)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
